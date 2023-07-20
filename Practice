@@ -1,0 +1,4 @@
+#include <time.h>
+chartime_str[20];
+time_t time = time(NULL);
+printf("%s\n", time_str);
